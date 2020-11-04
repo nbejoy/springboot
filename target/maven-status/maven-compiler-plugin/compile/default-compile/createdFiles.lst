@@ -1,0 +1,5 @@
+com\skillsoft\springboot\App.class
+com\skilsoft\springboot\controller\HelloController.class
+com\skillsoft\springboot\ComponentScan.class
+com\skillsoft\springboot\EnableAutoConfiguration.class
+com\skillsoft\springboot\SpringBootConfiguration.class
